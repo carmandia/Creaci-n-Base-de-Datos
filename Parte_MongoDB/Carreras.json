@@ -1,0 +1,9 @@
+{"name":"Paris-Niza", "country":"Francia", "Escala_UCI":"UCI.WR.C1.Stage", "nº_etapas":8, "Distancia_Recorrida" : 1081,"Pasa_por": ["Niza"]}
+{"name":"Milano-Sanremo", "country":"Italia", "Escala_UCI":"UCI.WR.Monument", "Distancia_Recorrida":294,"Pasa_por" : ["Sanremo"]}
+{"name":"Ronde van Vlaanderen-Tour des Flanders", "country":"Belgica", "Escala_UCI":"UCI.WR.Monument", "Distancia_Recorrida":273,"Pasa_por" : ["Brujas"]}
+{"name":"Paris-Roubaix", "country":"Francia", "Escala_UCI":"UCI.WR.Monument", "Distancia_Recorrida":257,"Pasa_por": ["Roubaix"]}
+{"name":"Liege-Bastogne-Liege", "country":"Belgica", "Escala_UCI":"UCI.WR.Monument", "Distancia_Recorrida":258,"Pasa_por" : ["Lieja"]}
+{"name":"Giro d'Italia", "country":"Italia", "Escala_UCI":"UCI.WR.GT.B.Stage", "nº_etapas":21, "Distancia_Recorrida":3407,"Pasa_por": ["Roma"]}
+{"name":"Tour de France", "country":"Francia", "Escala_UCI":"UCI.WR.GT.A.Stage", "nº_etapas":21,"Distancia_Recorrida" : 3407,"Pasa_por": ["Paris"]}
+{"name":"La Vuelta Ciclista a España", "country":"España", "Escala_UCI":"UCI.WR.GT.B.Stage", "nº_etapas":21,"Distancia_Recorrida": 3157,"Pasa_por": ["Madrid"]}
+{"name":"Il Lombardia", "country":"Italia", "Escala_UCI":"UCI.WR.Monument", "Distancia_Recorrida":238,"Pasa_por" : ["Vergamo"]}

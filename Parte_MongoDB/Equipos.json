@@ -1,0 +1,166 @@
+[
+		{
+			"Nombre": "INEOS Grenadiers",
+			"Abreviacion": "IGD",
+			"Marca de Bici" : "Pinarello",
+			"Nacionalidad": "Inglaterra",
+			"Nº_Ptos_UCI_Totales" : 10727,
+			"Vinculaciones" : [
+			{"Año_inicio" :2020,
+			 "Año_fin" : 2025,
+			 "Corredor" : "Geraint Thomas" 
+			}
+			]
+				},
+		
+		{
+			"Nombre": "Soudal- Quick Step",
+			"Abreviacion": "SOQ",
+			"Marca de Bici" : "Specialized",
+			"Nacionalidad": "Belgica",
+			"Nº_Ptos_UCI_Totales" : 11607,
+			"Vinculaciones" : [
+			{"Año_inicio" :2019,
+			 "Año_fin" : 2026,
+			 "Corredor" : "Remco Evenepoel" 
+			}
+			]
+				},
+		
+		{
+			"Nombre": "UAE Team Emirates",
+			"Abreviacion": "UAD",
+			"Marca de Bici" : "Colnago",
+			"Nacionalidad": "Emiratos Arabes Unidos",
+			"Nº_Ptos_UCI_Totales" : 17319,
+			"Vinculaciones" : [
+			{"Año_inicio" :2019,
+			 "Año_fin" : 2027,
+			 "Corredor" : "Tadej Pogacar" 
+			}
+			]
+				},
+		
+		{
+			"Nombre": "Lidl-Trek",
+			"Abreviacion": "LTK",
+			"Marca de Bici" : "Trek",
+			"Nacionalidad": "Estados Unidos",
+			"Nº_Ptos_UCI_Totales" : 8887,
+			"Vinculaciones" : [
+			{"Año_inicio" :2019,
+			 "Año_fin" : 2027,
+			 "Corredor" : "Mads Pedersen" 
+			}
+			]
+				},
+		
+		{
+			"Nombre": "BORA-hansgrohe",
+			"Abreviacion": "BOH",
+			"Marca de Bici" : "Specialized",
+			"Nacionalidad": "Alemania",
+			"Nº_Ptos_UCI_Totales" : 9796,
+			"Vinculaciones" : [
+			{"Año_inicio" :2020,
+			 "Año_fin" : 2024,
+			 "Corredor" : "Lennard Kamna" 
+			}
+			]
+				},
+		
+		{
+			"Nombre": "Team Jayco Alula",
+			"Abreviacion": "JAY",
+			"Marca de Bici" : "Giant",
+			"Nacionalidad": "Australia",
+			"Nº_Ptos_UCI_Totales" : 7195,
+			"Vinculaciones" : [
+			{"Año_inicio" :2021,
+			 "Año_fin" : 2024,
+			 "Corredor" : "Simon Yates" 
+			}
+			]
+				},
+		
+		{
+			"Nombre": "EF Education-EasyPost",
+			"Abreviacion": "EFE",
+			"Marca de Bici" : "Cannondale",
+			"Nacionalidad": "Estados Unidos",
+			"Nº_Ptos_UCI_Totales" : 7908,
+			"Vinculaciones" : [
+			{"Año_inicio" :2020,
+			 "Año_fin" : 2027,
+			 "Corredor" : "Neilson Powless" 
+			}
+			]
+				},
+		
+		{
+			"Nombre": "Alpecin-Deceunick",
+			"Abreviacion": "ADC",
+			"Marca de Bici" : "Canyon",
+			"Nacionalidad": "Belgica",
+			"Nº_Ptos_UCI_Totales" : 8593,
+			"Vinculaciones" : [
+			{"Año_inicio" :2020,
+			 "Año_fin" : 2025,
+			 "Corredor" : "Mathieu Van der Poel" 
+			}
+			]
+				},
+		{
+			"Nombre": "Astana Qazaqstan Team",
+			"Abreviacion": "AST",
+			"Marca de Bici" : "Wilier Triestina",
+			"Nacionalidad": "Kazajistan",
+			"Nº_Ptos_UCI_Totales" : 4289,
+			"Vinculaciones" : [
+			{"Año_inicio" :2021,
+			 "Año_fin" : 2024,
+			 "Corredor" : "Alexey Lutsenko" 
+			}
+			]
+				},
+		
+		{
+			"Nombre": "AG2R Citroen Team",
+			"Abreviacion": "ACT",
+			"Marca de Bici" : "BMC",
+			"Nacionalidad": "Austria",
+			"Nº_Ptos_UCI_Totales" : 6469,
+			"Vinculaciones" : [
+			{"Año_inicio" :2022,
+			 "Año_fin" : 2025,
+			 "Corredor" : "Felix Gall" 
+			}
+			]
+				},
+		{
+			"Nombre": "Bahrain-Victorious",
+			"Abreviacion": "TBV",
+			"Marca de Bici" : "Merida",
+			"Nacionalidad": "Bahrein",
+			"Nº_Ptos_UCI_Totales" : 9307,
+			"Vinculaciones" : [
+			{"Año_inicio" :2021,
+			 "Año_fin" : 2025,
+			 "Corredor" : "Pello Bilbao" 
+			}
+			]
+				},
+		{
+			"Nombre": "Movistar Team",
+			"Abreviacion": "MOV",
+			"Marca de Bici" : "Canyon",
+			"Nacionalidad": "España",
+			"Nº_Ptos_UCI_Totales" : 7414,
+			"Vinculaciones" : [
+			{"Año_inicio" :2022,
+			 "Año_fin" : 2024,
+			 "Corredor" : "Alex Aramburu" 
+			}
+			]
+				}
+]

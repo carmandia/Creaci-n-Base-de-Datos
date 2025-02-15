@@ -1,0 +1,99 @@
+[
+		{
+			"Año_inicio": 2021,
+			"Año_fin": 2024,
+			"Vinculaciones" : [
+			{"Nombre_Equipo" :"Astana Qazaqstan Team",
+			 "Corredor" : "Alexey Lutsenko" 
+			},
+			{"Nombre_Equipo" :"Team Jayco Alula",
+			 "Corredor" : "Simon Yates" 
+			}
+			]
+				},
+		{
+			"Año_inicio": 2020,
+			"Año_fin": 2025,
+			"Vinculaciones" : [
+			{"Nombre_Equipo" :"INEOS Grenadiers",
+			 "Corredor" : "Geraint Thomas" 
+			},
+			{"Nombre_Equipo" :"Alpecin-Deceunick",
+			 "Corredor" : "Mathieu Van der Poel" 
+			}
+			]
+				},
+		{
+			"Año_inicio": 2019,
+			"Año_fin": 2027,
+			"Vinculaciones" : [
+			{"Nombre_Equipo" :"UAE Team Emirates",
+			 "Corredor" : "Tadej Pogacar" 
+			},
+			{"Nombre_Equipo" :"Jumbo-Visma",
+			 "Corredor" : "Jonas Vingegaard" 
+			},
+			{"Nombre_Equipo" :"Lidl-Trek",
+			 "Corredor" : "Mads Pedersen" 
+			}
+			]
+				},
+		{
+			"Año_inicio": 2019,
+			"Año_fin": 2026,
+			"Vinculaciones" : [
+			{"Nombre_Equipo" :"Soudal- Quick Step",
+			 "Corredor" : "Remco Evenepoel" 
+			}
+			]
+				},
+		{
+			"Año_inicio": 2020,
+			"Año_fin": 2024,
+			"Vinculaciones" : [
+			{"Nombre_Equipo" :"BORA-hansgrohe",
+			 "Corredor" : "Lennard Kamna" 
+			}
+			]
+				},
+		{
+			"Año_inicio": 2020,
+			"Año_fin": 2027,
+			"Vinculaciones" : [
+			{"Nombre_Equipo" :"EF Education-EasyPost",
+			 "Corredor" : "Neilson Powless" 
+			}
+			]
+				},
+		{
+			"Año_inicio": 2021,
+			"Año_fin": 2025,
+			"Vinculaciones" : [
+			{"Nombre_Equipo" :"Bahrain-Victorious",
+			 "Corredor" : "Pello Bilbao" 
+			}
+			]
+				},
+		{
+			"Año_inicio": 2022,
+			"Año_fin": 2025,
+			"Vinculaciones" : [
+			{"Nombre_Equipo" :"AG2R Citroen Team",
+			 "Corredor" : "Felix Gall" 
+			}
+			]
+				},
+		{
+			"Año_inicio": 2022,
+			"Año_fin": 2024,
+			"Vinculaciones" : [
+			{"Nombre_Equipo" :"Movistar Team",
+			 "Corredor" : "Alex Aramburu" 
+			}
+			]
+				}
+]
+		
+		
+		
+		

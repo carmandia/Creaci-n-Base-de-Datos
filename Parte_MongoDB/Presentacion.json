@@ -1,0 +1,530 @@
+[
+		{
+			"Id": 1,
+			"Equipo_nombre": "INEOS Grenadiers",
+			"Carrera_nombre" : "Giro d'Italia",
+			"Corredor_nombre": "Geraint Thomas",
+			"Dorsal" : 118,
+			"PosicionGen": 2,
+			"Ptos_UCI_PosicionGen" : 885,
+			"Lideres" : [],
+			"Gregarios":["Filippo Ganna"],
+			"Etapas" : [
+			{"nº_etapa" :16,
+			 "PoscionETP" : 2,
+			 "PtosUCI_posicionETP" : 50 
+			}]
+				},		
+		{
+			"Id": 2,
+			"Equipo_nombre": "INEOS Grenadiers",
+			"Carrera_nombre" : "Giro d'Italia",
+			"Corredor_nombre": "Filippo Ganna",
+			"Dorsal" : 113,
+			"PosicionGen": 75,
+			"Ptos_UCI_PosicionGen" : 0,
+			"Lideres" : ["Geraint Thomas"],
+			"Gregarios":[],
+			"Etapas" : [
+			{"nº_etapa" :16,
+			 "PoscionETP" : 58,
+			 "PtosUCI_posicionETP" : 0 
+			}]
+				},
+		
+{
+			"Id": 3,
+			"Equipo_nombre": "Soudal-Quick Step",
+			"Carrera_nombre" : "Liege-Bastogne-Liege",
+			"Corredor_nombre": "Remco Evenepoel",
+			"Dorsal" : 1,
+			"PosicionGen": 1,
+			"Ptos_UCI_PosicionGen" : 800,
+			"Lideres" : [],
+			"Gregarios":["Ilan Van Wilder"]
+				},		
+{
+			"Id": 4,
+			"Equipo_nombre": "Soudal-Quick Step",
+			"Carrera_nombre" : "Liege-Bastogne-Liege",
+			"Corredor_nombre": "Ilan Van Wilder",
+			"Dorsal" : 6,
+			"PosicionGen": 22,
+			"Ptos_UCI_PosicionGen" : 30,
+			"Lideres" : ["Remco Evenepoel"],
+			"Gregarios":[]
+				},		
+		{
+			"Id": 5,
+			"Equipo_nombre": "UAE Team Emirates",
+			"Carrera_nombre" : "Tour de Francia",
+			"Corredor_nombre": "Adam Yates",
+			"Dorsal" : 19,
+			"PosicionGen": 3,
+			"Ptos_UCI_PosicionGen" : 880,
+			"Lideres" : ["Tadej Pogacar"],
+			"Gregarios":[],
+			"Etapas" : [
+			{"nº_etapa" :6,
+			 "PoscionETP" : 9,
+			 "PtosUCI_posicionETP" : 14 
+			}]
+				},
+		{
+			"Id": 6,
+			"Equipo_nombre": "UAE Team Emirates",
+			"Carrera_nombre" : "Tour de Francia",
+			"Corredor_nombre": "Tadej Pogacar",
+			"Dorsal" : 11,
+			"PosicionGen": 2,
+			"Ptos_UCI_PosicionGen" : 1040,
+			"Lideres" : [],
+			"Gregarios":["Adam Yates"],
+			"Etapas" : [
+			{"nº_etapa" :6,
+			 "PoscionETP" : 1,
+			 "PtosUCI_posicionETP" : 100 
+			}]
+				},		
+		{
+			"Id": 7,
+			"Equipo_nombre": "Lidl-Trek",
+			"Carrera_nombre" : "Paris-Roubaix",
+			"Corredor_nombre": "Mads Pedersen",
+			"Dorsal" : 51,
+			"PosicionGen": 4,
+			"Ptos_UCI_PosicionGen" : 440,
+			"Lideres" : [],
+			"Gregarios":[]
+				},		
+		{
+			"Id": 8,
+			"Equipo_nombre": "Lidl-Trek",
+			"Carrera_nombre" : "Tirreno-Adriatico",
+			"Corredor_nombre": "Giulio Ciccone",
+			"Dorsal" : 221,
+			"PosicionGen": 5,
+			"Ptos_UCI_PosicionGen" : 225,
+			"Lideres" : [],
+			"Gregarios":[],
+			"Etapas" : [
+			{"nº_etapa" :7,
+			 "PoscionETP" : 38,
+			 "PtosUCI_posicionETP" : 0 
+			}]
+				},
+		{
+			"Id": 9,
+			"Equipo_nombre": "Jumbo-Visma",
+			"Carrera_nombre" : "Tour de Francia",
+			"Corredor_nombre": "Sepp Kuss",
+			"Dorsal" : 4,
+			"PosicionGen": 14,
+			"Ptos_UCI_PosicionGen" : 165,
+			"Lideres" : ["Jonas Vingegaard"],
+			"Gregarios":[],
+			"Etapas" : [
+			{"nº_etapa" :6,
+			 "PoscionETP" : 14,
+			 "PtosUCI_posicionETP" : 2 
+			}]
+				},
+		
+		{
+			"Id": 10,
+			"Equipo_nombre": "Jumbo-Visma",
+			"Carrera_nombre" : "Tour de Francia",
+			"Corredor_nombre": "Jonas Vingegaard",
+			"Dorsal" : 1,
+			"PosicionGen": 1,
+			"Ptos_UCI_PosicionGen" : 1300,
+			"Lideres" : [],
+			"Gregarios":["Sepp Kuss"],
+			"Etapas" : [
+			{"nº_etapa" :6,
+			 "PoscionETP" : 2,
+			 "PtosUCI_posicionETP" : 70 
+			}]
+				},
+		{
+			"Id": 11,
+			"Equipo_nombre": "BORA-hansgrohe",
+			"Carrera_nombre" : "Giro d'Italia",
+			"Corredor_nombre": "Lennard Kamna",
+			"Dorsal" : 56,
+			"PosicionGen": 9,
+			"Ptos_UCI_PosicionGen" : 235,
+			"Lideres" : [],
+			"Gregarios":[],
+			"Etapas" : [
+			{"nº_etapa" :16,
+			 "PoscionETP" : 11,
+			 "PtosUCI_posicionETP" : 5 
+			}]
+				},
+		{
+			"Id": 12,
+			"Equipo_nombre": "BORA-hansgrohe",
+			"Carrera_nombre" : "Tour de Francia",
+			"Corredor_nombre": "Jai Hindley",
+			"Dorsal" : 71,
+			"PosicionGen": 7,
+			"Ptos_UCI_PosicionGen" : 425,
+			"Lideres" : [],
+			"Gregarios":[],
+			"Etapas" : [
+			{"nº_etapa" :6,
+			 "PoscionETP" : 13,
+			 "PtosUCI_posicionETP" : 5 
+			}]
+				},
+		{
+			"Id": 13,
+			"Equipo_nombre": "Team Jayco Alula",
+			"Carrera_nombre" : "Il Lombardia",
+			"Corredor_nombre": "Simon Yates",
+			"Dorsal" : 221,
+			"PosicionGen": 5,
+			"Ptos_UCI_PosicionGen" : 360,
+			"Lideres" : [],
+			"Gregarios":[],
+			"Etapas" : []
+				},
+		{
+			"Id": 14,
+			"Equipo_nombre": "Team Jayco Alula",
+			"Carrera_nombre" : "Tour de Francia",
+			"Corredor_nombre": "Simon Yates",
+			"Dorsal" : 161,
+			"PosicionGen": 4,
+			"Ptos_UCI_PosicionGen" : 750,
+			"Lideres" : [],
+			"Gregarios":[],
+			"Etapas" : [
+			{"nº_etapa" :6,
+			 "PoscionETP" : 8,
+			 "PtosUCI_posicionETP" : 25 
+			}]
+				},
+		{
+			"Id": 15,
+			"Equipo_nombre": "EF Education-EasyPost",
+			"Carrera_nombre" : "Ronde van Vlaanderen-Tour des Flanders",
+			"Corredor_nombre": "Neilson Powless",
+			"Dorsal" : 96,
+			"PosicionGen": 5,
+			"Ptos_UCI_PosicionGen" : 360,
+			"Lideres" : [],
+			"Gregarios":["Alberto Bettiol"]
+				},
+		{
+			"Id": 16,
+			"Equipo_nombre": "EF Education-EasyPost",
+			"Carrera_nombre" : "Ronde van Vlaanderen-Tour des Flanders",
+			"Corredor_nombre": "Alberto Bettiol",
+			"Dorsal" : 92,
+			"PosicionGen": 88,
+			"Ptos_UCI_PosicionGen" : 0,
+			"Lideres" : ["Neilson Powless"],
+			"Gregarios":[]
+				},
+		{
+			"Id": 17,
+			"Equipo_nombre": "Alpecin-Deceunick",
+			"Carrera_nombre" : "Paris-Roubaix",
+			"Corredor_nombre": "Jasper Philippsen",
+			"Dorsal" : 25,
+			"PosicionGen": 2,
+			"Ptos_UCI_PosicionGen" : 640,
+			"Lideres" : ["Mathieu Van der Poel"],
+			"Gregarios":[]
+				},
+		{
+			"Id": 18,
+			"Equipo_nombre": "Alpecin-Deceunick",
+			"Carrera_nombre" : "Paris-Roubaix",
+			"Corredor_nombre": "Mathieu Van der Poel",
+			"Dorsal" : 21,
+			"PosicionGen":1,
+			"Ptos_UCI_PosicionGen" : 800,
+			"Lideres" : [],
+			"Gregarios":["Jasper Philippsen"]
+				},
+		{
+			"Id": 19,
+			"Equipo_nombre": "Team Arkea Samsic",
+			"Carrera_nombre" : "La Vuelta Ciclista a España",
+			"Corredor_nombre": "Cristian Rodriguez",
+			"Dorsal" : 178,
+			"PosicionGen": 13,
+			"Ptos_UCI_PosicionGen" : 110,
+			"Lideres" : [],
+			"Gregarios":["Elie Gesbert"],
+			"Etapas" : [
+			{"nº_etapa" :13,
+			 "PoscionETP" : 19,
+			 "PtosUCI_posicionETP" : 0 
+			}]
+				},
+		{
+			"Id": 20,
+			"Equipo_nombre": "Team Arkea Samsic",
+			"Carrera_nombre" : "La Vuelta Ciclista a España",
+			"Corredor_nombre": "Elie Gesbert",
+			"Dorsal" : 172,
+			"PosicionGen": 22,
+			"Ptos_UCI_PosicionGen" : 16,
+			"Lideres" : ["Cristian Rodriguez"],
+			"Gregarios":[],
+			"Etapas" : [
+			{"nº_etapa" :13,
+			 "PoscionETP" : 128,
+			 "PtosUCI_posicionETP" : 0 
+			}]
+				},
+		{
+			"Id": 21,
+			"Equipo_nombre": "Astana Qazaqstan team",
+			"Carrera_nombre" : "Tour de Francia",
+			"Corredor_nombre": "Alexey Lutsenko",
+			"Dorsal" : 195,
+			"PosicionGen": 40,
+			"Ptos_UCI_PosicionGen" : 35,
+			"Lideres" : [],
+			"Gregarios":[],
+			"Etapas" : [
+			{"nº_etapa" :19,
+			 "PoscionETP" : 135,
+			 "PtosUCI_posicionETP" : 0 
+			}]
+				},
+		{
+			"Id": 22,
+			"Equipo_nombre": "Astana Qazaqstan team",
+			"Carrera_nombre" : "Tour de Francia",
+			"Corredor_nombre": "Harold Tejada",
+			"Dorsal" : 198,
+			"PosicionGen": 34,
+			"Ptos_UCI_PosicionGen" : 35,
+			"Lideres" : [],
+			"Gregarios":[],
+			"Etapas" : [
+			{"nº_etapa" :19,
+			 "PoscionETP" : 96,
+			 "PtosUCI_posicionETP" : 0 
+			}]
+				},
+		{
+			"Id": 23,
+			"Equipo_nombre": "Bahrain-Victorious",
+			"Carrera_nombre" : "Tour de Francia",
+			"Corredor_nombre": "Pello Bilbao",
+			"Dorsal" : 65,
+			"PosicionGen": 6,
+			"Ptos_UCI_PosicionGen" : 520,
+			"Lideres" : ["Wout Poels"],
+			"Gregarios":[],
+			"Etapas" : [
+			{"nº_etapa" :4,
+			 "PoscionETP" : 35,
+			 "PtosUCI_posicionETP" : 0 
+			}]
+				},
+		{
+			"Id": 24,
+			"Equipo_nombre": "Bahrain-Victorious",
+			"Carrera_nombre" : "Tour de Francia",
+			"Corredor_nombre": "Wout Poels",
+			"Dorsal" : 69,
+			"PosicionGen": 27,
+			"Ptos_UCI_PosicionGen" : 40,
+			"Lideres" : ["Pello Bilbao"],
+			"Gregarios":[],
+			"Etapas" : [
+			{"nº_etapa" :4,
+			 "PoscionETP" : 71,
+			 "PtosUCI_posicionETP" : 0 
+			}]
+				},
+		{
+			"Id": 25,
+			"Equipo_nombre": "Cofidis",
+			"Carrera_nombre" : "Il Lombardia",
+			"Corredor_nombre": "Simon Geschke",
+			"Dorsal" : 65,
+			"PosicionGen":90,
+			"Ptos_UCI_PosicionGen" : 0,
+			"Lideres" : ["Guillaume Martin"],
+			"Gregarios":[]
+		},
+		{
+			"Id": 26,
+			"Equipo_nombre": "Cofidis",
+			"Carrera_nombre" : "Il Lombardia",
+			"Corredor_nombre": "Guillaume Martin",
+			"Dorsal" : 61,
+			"PosicionGen": 52,
+			"Ptos_UCI_PosicionGen" : 10,
+			"Lideres" : [],
+			"Gregarios":[]
+				},
+		{
+			"Id": 27,
+			"Equipo_nombre": "AG2R Citroen Team",
+			"Carrera_nombre" : "Liege-Bastogne-Liege",
+			"Corredor_nombre": "Ben O'Connor",
+			"Dorsal" : 145,
+			"PosicionGen": 50,
+			"Ptos_UCI_PosicionGen" : 10,
+			"Lideres" : [],
+			"Gregarios":["Benoit Cosnefroy"]
+				},
+		{
+			"Id": 28,
+			"Equipo_nombre": "AG2R Citroen Team",
+			"Carrera_nombre" : "Liege-Bastogne-Liege",
+			"Corredor_nombre": "Benoit Cosnefroy",
+			"Dorsal" : 141,
+			"PosicionGen": 54,
+			"Ptos_UCI_PosicionGen" : 5,
+			"Lideres" : ["Ben O'Connor"],
+			"Gregarios":[]
+			},
+		{
+			"Id": 29,
+			"Equipo_nombre": "Groupama-FDJ",
+			"Carrera_nombre" : "Paris-Niza",
+			"Corredor_nombre": "David Gaudu",
+			"Dorsal" : 61,
+			"PosicionGen": 2,
+			"Ptos_UCI_PosicionGen" : 400,
+			"Lideres" : [],
+			"Gregarios":[],
+			"Etapas" : [
+			{"nº_etapa" :8,
+			 "PoscionETP" : 3,
+			 "PtosUCI_posicionETP" : 18 
+			}]
+				},
+		{
+			"Id": 30,
+			"Equipo_nombre": "Groupama-FDJ",
+			"Carrera_nombre" : "Ronde Van Vlaanderen-Tour des Flanders",
+			"Corredor_nombre": "Stefan Kung",
+			"Dorsal" : 191,
+			"PosicionGen": 6,
+			"Ptos_UCI_PosicionGen" : 280,
+			"Lideres" : [],
+			"Gregarios":[]
+				},
+		{
+			"Id": 31,
+			"Equipo_nombre": "Intermarche-Circus-Wanty",
+			"Carrera_nombre" : "Milano-Sanremo",
+			"Corredor_nombre": "Biniam Girmay",
+			"Dorsal" : 111,
+			"PosicionGen": 28,
+			"Ptos_UCI_PosicionGen" : 30,
+			"Lideres" : [],
+			"Gregarios":["Lorenzo Rota"]
+				},
+		{
+			"Id": 32,
+			"Equipo_nombre": "Intermarche-Circus-Wanty",
+			"Carrera_nombre" : "Milano-Sanremo",
+			"Corredor_nombre": "Lorenzo Rota",
+			"Dorsal" : 114,
+			"PosicionGen":31,
+			"Ptos_UCI_PosicionGen" : 15,
+			"Lideres" : ["Biniam Girmay"],
+			"Gregarios":[]
+				},
+		{
+			"Id": 33,
+			"Equipo_nombre": "Movistar Team",
+			"Carrera_nombre" : "Paris-Roubaix",
+			"Corredor_nombre": "Ivan Garcia Cortina",
+			"Dorsal" : 181,
+			"PosicionGen": 32,
+			"Ptos_UCI_PosicionGen" : 15,
+			"Lideres" : [],
+			"Gregarios":[]
+				},
+		{
+			"Id": 34,
+			"Equipo_nombre": "Movistar Team",
+			"Carrera_nombre" : "Ronde van Vlaanderen-Tour des Flanders",
+			"Corredor_nombre": "Ivan Garcia Cortina",
+			"Dorsal" : 201,
+			"PosicionGen": 21,
+			"Ptos_UCI_PosicionGen" : 30,
+			"Lideres" : [],
+			"Gregarios":[]
+				},
+		{
+			"Id": 35,
+			"Equipo_nombre": "Team dsm- firmenich",
+			"Carrera_nombre" : "Paris-Roubaix",
+			"Corredor_nombre": "Jhon Degenkolb",
+			"Dorsal" : 91,
+			"PosicionGen": 7,
+			"Ptos_UCI_PosicionGen" : 240,
+			"Lideres" : [],
+			"Gregarios":[]
+				},
+		{
+			"Id": 36,
+			"Equipo_nombre": "Team dsm- firmenich",
+			"Carrera_nombre" : "Donostia San Sebastian Klasikoa",
+			"Corredor_nombre": "Kevin Vermaerke",
+			"Dorsal" : 158,
+			"PosicionGen":21,
+			"Ptos_UCI_PosicionGen" : 16,
+			"Lideres" : [],
+			"Gregarios":[]
+				},
+		{
+			"Id": 37,
+			"Equipo_nombre": "Israel-Premier Tech",
+			"Carrera_nombre" : "Liege-Bastogne-Liege",
+			"Corredor_nombre": "Simon Clarke",
+			"Dorsal" : 103,
+			"PosicionGen": 35,
+			"Ptos_UCI_PosicionGen" : 15,
+			"Lideres" : [],
+			"Gregarios":[]
+				},
+		{
+			"Id": 38,
+			"Equipo_nombre": "Israel-Premier Tech",
+			"Carrera_nombre" : "Il Lombardia",
+			"Corredor_nombre": "Michael Woods",
+			"Dorsal" : 137,
+			"PosicionGen": 12,
+			"Ptos_UCI_PosicionGen" : 95,
+			"Lideres" : [],
+			"Gregarios":[]
+				},
+		{
+			"Id": 39,
+			"Equipo_nombre": "Lotto Dstny",
+			"Carrera_nombre" : "Paris-Roubaix",
+			"Corredor_nombre": "Arnaud De Lie",
+			"Dorsal" :83,
+			"PosicionGen": 50,
+			"Ptos_UCI_PosicionGen" : 15,
+			"Lideres" : ["Florian Vermeersch"],
+			"Gregarios":[]
+				},
+		{
+			"Id": 40,
+			"Equipo_nombre": "Lotto Dstny",
+			"Carrera_nombre" : "Paris-Roubaix",
+			"Corredor_nombre": "Florian Vermeersch",
+			"Dorsal" : 81,
+			"PosicionGen":12,
+			"Ptos_UCI_PosicionGen" : 95,
+			"Lideres" : [],
+			"Gregarios":["Arnaud De Lie"]
+				}
+]

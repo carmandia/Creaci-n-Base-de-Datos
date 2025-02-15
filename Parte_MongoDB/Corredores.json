@@ -1,0 +1,210 @@
+[
+		{
+			"id": 253,
+			"Nombre": "Geraint",
+			"Apellido": "Thomas",
+			"Altura" : 183,
+			"Peso" : 71,
+			" Fecha Nacimiento" : "1986-05-25" ,
+			"Nacionalidad": "Inglaterra",
+			"Nº_Carreras_Corridas" : 8,
+			"Vinculacion" : [
+			{"Año_inicio" :2020,
+			 "Año_fin" : 2025,
+			 "Equipo" : "INEOS Grenadiers" 
+			}
+			]
+				},
+		{
+			"id": 2,
+			"Nombre": "Remco",
+			"Apellido": "Evenepoel",
+			"Altura" : 171,
+			"Peso" : 61,
+			" Fecha Nacimiento" : "2000-01-25" ,
+			"Nacionalidad": "Belgica",
+			"Nº_Carreras_Corridas" : 14,
+			"Vinculacion" : [
+			{"Año_inicio" :2019,
+			 "Año_fin" : 2026,
+			 "Equipo" : "Soudal- Quick Step" 
+			}
+			]
+				},
+		{
+			"id": 3,
+			"Nombre": "Tadej",
+			"Apellido": "Pogacar",
+			"Altura" : 176,
+			"Peso" : 66,
+			" Fecha Nacimiento" : "1998-09-21" ,
+			"Nacionalidad": "Eslovenia",
+			"Nº_Carreras_Corridas" : 19,
+			"Vinculacion" : [
+			{"Año_inicio" :2019,
+			 "Año_fin" : 2027,
+			 "Equipo" : "UAE Team Emirates" 
+			}
+			]
+				},
+		{
+			"id": 5,
+			"Nombre": "Mads",
+			"Apellido": "Pedersen",
+			"Altura" : 180,
+			"Peso" : 70,
+			" Fecha Nacimiento" : "1995-12-18" ,
+			"Nacionalidad": "Dinamarca",
+			"Nº_Carreras_Corridas" : 21,
+			"Vinculacion" : [
+			{"Año_inicio" :2019,
+			 "Año_fin" : 2027,
+			 "Equipo" : "LIDL-Trek" 
+			}
+			]
+				},
+		{
+			"id": 737,
+			"Nombre": "Lennard",
+			"Apellido": "Kamna",
+			"Altura" : 181,
+			"Peso" : 65,
+			" Fecha Nacimiento" : "1996-09-09" ,
+			"Nacionalidad": "Alemania",
+			"Nº_Carreras_Corridas" : 16,
+			"Vinculacion" : [
+			{"Año_inicio" :2020,
+			 "Año_fin" : 2024,
+			 "Equipo" : "BORA-hansgrohe" 
+			}
+			]
+				},
+		{
+			"id": 111,
+			"Nombre": "Jonas",
+			"Apellido": "Vingegaard",
+			"Altura" : 175,
+			"Peso" : 60,
+			" Fecha Nacimiento" : "1996-12-10" ,
+			"Nacionalidad": "Dinamarca",
+			"Nº_Carreras_Corridas" : 6,
+			"Vinculacion" : [
+			{"Año_inicio" :2019,
+			 "Año_fin" : 2027,
+			 "Equipo" : "Jumbo-Visma" 
+			}
+			]
+				},
+		{
+			"id": 25,
+			"Nombre": "Simon",
+			"Apellido": "Yates",
+			"Altura" : 172,
+			"Peso" : 58,
+			" Fecha Nacimiento" : "1992-08-07" ,
+			"Nacionalidad": "Inglaterra",
+			"Nº_Carreras_Corridas" : 18,
+			"Vinculacion" : [
+			{"Año_inicio" :2021,
+			 "Año_fin" : 2024,
+			 "Equipo" : "Team Jayco Alula" 
+			}
+			]
+				},
+		{
+			"id": 53,
+			"Nombre": "Neilson",
+			"Apellido": "Powless",
+			"Altura" : 183,
+			"Peso" : 67,
+			" Fecha Nacimiento" : "1996-09-03" ,
+			"Nacionalidad": "Estados Unidos",
+			"Nº_Carreras_Corridas" : 19,
+			"Vinculacion" : [
+			{"Año_inicio" :2020,
+			 "Año_fin" : 2027,
+			 "Equipo" : "EF Education-EasyPost" 
+			}
+			]
+				},
+		{
+			"id": 321,
+			"Nombre": "Mathieu",
+			"Apellido": "Van der Poel",
+			"Altura" : 184,
+			"Peso" : 75,
+			" Fecha Nacimiento" : "1995-01-19" ,
+			"Nacionalidad": "Paises Bajos",
+			"Nº_Carreras_Corridas" : 16,
+			"Vinculacion" : [
+			{"Año_inicio" :2020,
+			 "Año_fin" : 2025,
+			 "Equipo" : "Alpecion-Deceuninck" 
+			}
+			]
+				},
+		{
+			"id": 200,
+			"Nombre": "Alexey",
+			"Apellido": "Lutsenko",
+			"Altura" : 174,
+			"Peso" : 74,
+			" Fecha Nacimiento" : "1992-09-07" ,
+			"Nacionalidad": "Kazajistan",
+			"Nº_Carreras_Corridas" : 23,
+			"Vinculacion" : [
+			{"Año_inicio" :2021,
+			 "Año_fin" : 2024,
+			 "Equipo" : "Astana Qazaqstan Team" 
+			}
+			]
+				},
+		{
+			"id": 96,
+			"Nombre": "Pello",
+			"Apellido": "Bilbao",
+			"Altura" : 174,
+			"Peso" : 60,
+			" Fecha Nacimiento" : "1990-02-25" ,
+			"Nacionalidad": "España",
+			"Nº_Carreras_Corridas" : 15,
+			"Vinculacion" : [
+			{"Año_inicio" :2021,
+			 "Año_fin" : 2025,
+			 "Equipo" : "Bahrain-Victorious" 
+			}
+			]
+				},
+		{
+			"id": 60,
+			"Nombre": "Felix",
+			"Apellido": "Gall",
+			"Altura" : 178,
+			"Peso" : 66,
+			" Fecha Nacimiento" : "1998-02-27" ,
+			"Nacionalidad": "Austria",
+			"Nº_Carreras_Corridas" : 15,
+			"Vinculacion" : [
+			{"Año_inicio" :2022,
+			 "Año_fin" : 2025,
+			 "Equipo" : "AG2R Citroen Team" 
+			}
+			]
+				},
+		{
+			"id": 600,
+			"Nombre": "Alex",
+			"Apellido": "Aramburu",
+			"Altura" : 178,
+			"Peso" : 63,
+			" Fecha Nacimiento" : "1995-09-19" ,
+			"Nacionalidad": "España",
+			"Nº_Carreras_Corridas" : 25,
+			"Vinculacion" : [
+			{"Año_inicio" :2022,
+			 "Año_fin" : 2024,
+			 "Equipo" : "Movistar Team" 
+			}
+			]
+				}
+]

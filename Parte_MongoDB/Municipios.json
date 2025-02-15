@@ -1,0 +1,9 @@
+{"name":"Niza", "country":"Francia", "Provincia":"Provenza-Alpes-Costa Azul", "Cod_Postal" : [6000,6300],"Carreras_que_pasan":["Paris-Niza"]}
+{"name":"Sanremo", "country":"Italia", "Provincia":"Liguria", "Cod_Postal":[18038]  ,"Carreras_que_pasan":["Milano-Sanremo"]}
+{"name":"Brujas", "country":"Belgica", "Provincia":"Flandes", "Cod_Postal":[8000,8200] ,"Carreras_que_pasan":["Ronde van Vlaanderen-Tour des Flanders"]}
+{"name":"Roubaix", "country":"Francia", "Provincia":"Norte y alta Francia", "Cod_Postal":[59100] ,"Carreras_que_pasan": ["Paris-Roubaix"]}
+{"name":"Lieja", "country":"Belgica", "Provincia":"Lieja", "Cod_Postal":[4000] , "Carreras_que_pasan": ["Liege-Bastogne-Liege"]}
+{"name":"Roma", "country":"Italia", "Provincia":"Lacio", "Cod_Postal":[42,100,123] , "Carreras_que_pasan": ["Giro d'Italia"]}
+{"name":"Paris", "country":"Francia", "Provincia":"Isla de Francia", "Cod_Postal" :[70123,75000,75003] , "Carreras_que_pasan": ["Tour de France"]}
+{"name":"Madrid", "country":"España", "Provincia":"Madrid", "Cod_Postal" :[28001,28002], "Carreras_que_pasan" : ["La Vuelta Ciclista a España"]}
+{"name":"Vergamo", "country":"Italia", "Provincia":"Lombardia", "Cod_Postal" : [24100], "Carreras_que_pasan" : ["Il Lombardia"]}

@@ -1,0 +1,126 @@
+[
+		{
+			"Id": 1,
+			"Carrera_nombre" : "Giro d'Italia",
+			"nº_etapa" : 16,
+			"Altimetria": 5852,
+			"Distancia" : 203,
+			"Corredores" : [
+			{"Nombre_corredor" : "Geraint Thomas",
+			 "PoscionETP" : 2,
+			 "PtosUCI_posicionETP" : 50 
+			},
+			{"Nombre_corredor" : "Filippo Ganna",
+			 "PoscionETP" : 58,
+			 "PtosUCI_posicionETP" : 0 
+			},
+			{"Nombre_corredor" : "Lennard Kamna",
+			 "PoscionETP" : 13,
+			 "PtosUCI_posicionETP" : 5 
+			}]
+				},		
+		{
+			"Id": 2,
+			"Carrera_nombre" : "Tour de Francia",
+			"nº_etapa" : 6,
+			"Altimetria": 3894,
+			"Distancia" : 145,
+			"Corredores" : [
+			{"Nombre_corredor" : "Tadej Pogacar",
+			 "PoscionETP" : 1,
+			 "PtosUCI_posicionETP" : 100 
+			},
+			{"Nombre_corredor" : "Adam Yates",
+			 "PoscionETP" : 9,
+			 "PtosUCI_posicionETP" : 14 
+			},
+			{"Nombre_corredor" : "Sepp Kuss",
+			 "PoscionETP" : 14,
+			 "PtosUCI_posicionETP" : 2 
+			},
+			{"Nombre_corredor" : "Jonas Vingegaard",
+			 "PoscionETP" : 2,
+			 "PtosUCI_posicionETP" : 70 
+			},
+			{"Nombre_corredor" : "Jai Hindley",
+			 "PoscionETP" : 13,
+			 "PtosUCI_posicionETP" : 5 
+			},
+			{"Nombre_corredor" : "Simon Yates",
+			 "PoscionETP" : 8,
+			 "PtosUCI_posicionETP" : 25 
+			}]
+				},	
+		
+		{
+			"Id": 3,
+			"Carrera_nombre" : "Tour de Francia",
+			"nº_etapa" : 19,
+			"Altimetria": 1934,
+			"Distancia" : 173,
+			"Corredores" : [
+			{"Nombre_corredor" : "Alexey Lutsenko",
+			 "PoscionETP" : 135,
+			 "PtosUCI_posicionETP" : 0 
+			},
+			{"Nombre_corredor" : "Harold Tejada",
+			 "PoscionETP" : 96,
+			 "PtosUCI_posicionETP" : 0 
+			}]
+				},			
+{
+			"Id": 4,
+			"Carrera_nombre" : "Tour de Francia",
+			"nº_etapa" : 4,
+			"Altimetria": 1427,
+			"Distancia" : 182,
+			"Corredores" : [
+			{"Nombre_corredor" : "Pello Bilbao",
+			 "PoscionETP" : 35,
+			 "PtosUCI_posicionETP" : 0 
+			},
+			{"Nombre_corredor" : "Wout Poels",
+			 "PoscionETP" : 71,
+			 "PtosUCI_posicionETP" : 0 
+			}]
+				},	
+		{
+			"Id": 5,
+			"Carrera_nombre" : "Tirreno Adriatico",
+			"nº_etapa" : 7,
+			"Altimetria": 1660,
+			"Distancia" : 154,
+			"Corredores" : [
+			{"Nombre_corredor" :"Giulio Ciccone",
+			 "PoscionETP" : 38,
+			 "PtosUCI_posicionETP" : 0 
+			}]
+				},
+		{
+			"Id": 6,
+			"Carrera_nombre" : "Paris-Niza",
+			"nº_etapa" : 8,
+			"Altimetria": 2465,
+			"Distancia" : 117,
+			"Corredores" : [
+			{"Nombre_corredor" :"David Gaudu",
+			 "PoscionETP" : 3,
+			 "PtosUCI_posicionETP" : 18 
+			}]
+				},
+		{
+			"Id": 7,
+			"Carrera_nombre" : "La Vuelta Ciclista a España",
+			"nº_etapa" : 13,
+			"Altimetria": 4266,
+			"Distancia" : 135,
+			"Corredores" : [
+			{"Nombre_corredor" : "Cristian Rodriguez",
+			 "PoscionETP" : 19,
+			 "PtosUCI_posicionETP" : 0 
+			},
+			{"Nombre_corredor" : "Elie Gesbert",
+			 "PoscionETP" : 135,
+			 "PtosUCI_posicionETP" : 0 
+			}]
+				}]
